@@ -7,7 +7,7 @@ description: ClickHouse Cloud
 
 # ClickHouse Cloud
 
-Experience ClickHouse Cloud by [starting your free trial](https://clickhouse.cloud/signUp).
+Get started with ClickHouse Cloud by [starting a free trial](https://clickhouse.cloud/signUp). Available on all major clouds(AWS, Azure, and GCP), directly or through the Marketplace. In addition, we now offer a fully managed ClickHouse Cloud service deployed in your own AWS account, currently in [private preview for AWS](https://clickhouse.com/cloud/bring-your-own-cloud).
 
 ### ClickHouse Cloud benefits:
 
